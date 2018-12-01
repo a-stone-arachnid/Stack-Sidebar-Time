@@ -2,6 +2,12 @@
 // @name     Sidebar Stack Clock
 // @author   a stone arachnid
 // @version  1
+// @include       http*://*stackoverflow.com/*
+// @include       http*://*superuser.com/*
+// @include       http*://*serverfault.com/*
+// @include       http*://*askubuntu.com/*
+// @include       http*://*.stackexchange.com/*
+// @include       http*://*stackapps.com/*
 // @grant    none
 // @require  https://cdnjs.cloudflare.com/ajax/libs/rxjs/6.3.3/rxjs.umd.min.js
 // @require  https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js
